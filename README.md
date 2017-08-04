@@ -1,7 +1,7 @@
 # capstone-project-1
 Springboard Capstone Project 1
 
-I am still struggling for ideas for the first capstone project. I have used expedia and airbnb a lot over the past years so I found ideas 1 and 2 to be very interesting. I also find number 3 to be very interesting as I had built muon detectors during graduate school that was used at Fermi Lab and even brought over to Cern for testing but this project may be too difficult. 4. This is a dataset for credit card fraud although it seems too vague. As far as I can tell the only usuable data is time, amount and fruad. 5. Original idea about analyzing movie industry before and after the age of online piracy. 
+I am still struggling for ideas for the first capstone project. I have used expedia and airbnb a lot over the past years so I found ideas 1 and 2 to be very interesting. I also find number 3 to be very interesting as I had built muon detectors during graduate school that was used at Fermi Lab and even brought over to Cern for testing but this project may be too difficult. 4. This is a dataset for credit card fraud although it seems too vague. As far as I can tell the only usuable data is time, amount and fruad. 5. Original idea about analyzing movie industry before and after the age of online piracy. I am still open to new ideas.
 
 
 1. Expedia Hotel Recommendations from kaggle https://www.kaggle.com/c/expedia-hotel-recommendations/data
